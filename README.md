@@ -7,6 +7,7 @@ https://www.hackerearth.com/challenges/competitive/brainwaves-17-1/machine-learn
 This dataset is very small.
 I don't have the actual portfolio return of the testing dataset provided.
 So, I split 10% of the training dataset as the testing dataset.
+This dataset contain portfolio for 13 years starting from year 2004 to year 2016.
 
 The R2 score is 96%.
 It is pretty good but the dataset is too small.
