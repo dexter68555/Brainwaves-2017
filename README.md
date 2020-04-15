@@ -10,7 +10,7 @@ So, I split 10% of the training dataset as the testing dataset.
 
 The R2 score is 96%.
 It is pretty good but the dataset is too small.
-Need to test with other bigger dataset to be sure.
+So, this result can only be used as a reference.
 
 You can check my code from https://github.com/dexter68555/Brainwaves-2017/blob/master/Simple%20Portfolio%20Return%20Prediction.ipynb
 
