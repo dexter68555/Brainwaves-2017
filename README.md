@@ -5,7 +5,7 @@ The dataset is from Brainwaves 2017 challenges.
 https://www.hackerearth.com/challenges/competitive/brainwaves-17-1/machine-learning/predict-annual-returns/analytics/
 
 This dataset is very small.
-I don't have the actual portfolio return of the dataset.
+I don't have the actual portfolio return of the testing dataset provided.
 So, I split 10% of the training dataset as the testing dataset.
 
 The R2 score is 96%.
